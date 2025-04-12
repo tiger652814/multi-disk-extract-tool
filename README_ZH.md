@@ -1,5 +1,7 @@
 # 多磁盘智能解压工具（Multi-Disk Extraction Tool）
 
+<img src="icon.png" alt="项目图标" width="120" align="right" />
+
 这是一款全新开发的智能解压缩工具，支持多磁盘自动切换、空间不足自动搬运，并兼容 `.zip`、`.tar.gz`、`.7z`、`.rar` 等多种压缩格式。支持图形界面（GUI）与命令行（CLI）两种运行模式。
 
 ---
