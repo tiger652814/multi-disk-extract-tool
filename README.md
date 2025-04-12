@@ -1,5 +1,7 @@
 # Multi-Disk Extraction Tool
 
+<img src="icon.png" alt="Multi-Disk Extractor Icon" width="120" align="right" />
+
 A brand new, intelligent extraction tool that supports multi-disk auto-switching, ensuring a smooth and efficient extraction process. This tool supports extracting various file formats such as `.zip`, `.tar.gz`, `.7z`, `.rar`, and more, while managing disk space intelligently. It can be used in both graphical interface mode (GUI) and command-line interface (CLI) mode.
 
 ---
