@@ -97,7 +97,7 @@ This project is licensed under the Apache-2.0 License. See the [LICENSE](LICENSE
 
 We welcome contributions! You can:
 - Fork this repository
-- Submit bug reports or feature requests via [Issues](https://github.com/YourGitHubUsername/your-repo/issues)
+- Submit bug reports or feature requests via [Issues](https://github.com/tiger652814/your-repo/issues)
 - Create pull requests to improve the code or documentation
 
 Please make sure to follow the coding standards and write clear commit messages.
