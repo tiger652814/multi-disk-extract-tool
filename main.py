@@ -227,6 +227,11 @@ def run_gui():
     selected_files = []
     output_dir = tk.StringVar()
 
+    # 设置图标（确保有 icon.ico 文件）
+    icon_path = os.path.join(os.path.dirname(__file__), "icon.ico")
+    if os.path.exists(icon_path):
+        root.iconbitmap(icon_path)
+
     def select_files():
         files = filedialog.askopenfilenames(title="选择压缩包", filetypes=[("压缩包", "*.zip *.rar *.7z *.tar.gz *.tgz")])
         if files:
